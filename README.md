@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @nittybekky
+- 👋 Hi, I’m Goodness e @nittybekky
 - 👀 I’m interested in Web Development, Machine Learning and Product Management and AI
-- 🌱 I’m currently learning Digital Product Management and Business Analytics
+- 🌱 I’m currently learning DevOps Engineering
 - 💞️ I’m looking to collaborate on Web Solutions, Product Management and Business Analytics
 - 📫 How to reach me: abarugogoodness@gmail.com
 
